@@ -5,7 +5,7 @@ const education = [
   {
     degree: "B.E. Information Technology",
     institute: "Dr. D. Y. Patil College of Engineering, Akurdi, Pune",
-    period: "2023 – 2027",
+    period: "2024 – 2027",
     result: "CGPA: 9.05 / 10",
   },
   {
