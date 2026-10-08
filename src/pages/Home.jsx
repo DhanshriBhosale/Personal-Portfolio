@@ -80,7 +80,7 @@ export default function Home() {
 
           {/* Download Resume */}
           <a
-            href="/DhanshriResume.pdf"
+            href="/BhosaleDhanshri.pdf"
             download
             className="flex items-center gap-2 rounded-full bg-cyan-400 px-8 py-3.5 text-sm font-semibold text-white transition-all duration-300 hover:bg-cyan-300 hover:shadow-[0_0_30px_rgba(34,211,238,0.3)] sm:text-base"
           >
@@ -117,4 +117,5 @@ export default function Home() {
       </div>
     </section>
   );
+
 }
