@@ -51,15 +51,13 @@ function Footer() {
             </a>
 
             {/* Gmail */}
-            <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=dhanshribhosale11@gmail.com"
-              target="_blank"
-              rel="noreferrer"
-              className="hover:text-cyan-400 hover:scale-110 duration-300"
-              aria-label="Email"
-            >
-              <FaEnvelope />
-            </a>
+           <a
+  href="mailto:dhanshribhosale11@gmail.com"
+  className="hover:text-cyan-400 hover:scale-110 duration-300"
+  aria-label="Email"
+>
+  <FaEnvelope />
+</a>
 
           </div>
 
